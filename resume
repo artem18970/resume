@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Резюме - Борисенко Артем">
+    <title>Резюме - Борисенко Артем</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .resume-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .resume-header h1 {
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+        .resume-header h2 {
+            font-size: 18px;
+            color: #555;
+        }
+        .section-title {
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        .section-content {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="resume-header">
+        <h1>Борисенко Артем Андрійович</h1>
+        <h2>Розробник програмного забезпечення</h2>
+    </div>
+    <div class="resume-section">
+        <h3 class="section-title">Контактна інформація</h3>
+        <p class="section-content">
+            Адреса: вул. Садова, 23, м. Суми (Краснопілля), Україна<br>
+            Телефон: +380993659731<br>
+            Дата народження: 06.11.2008<br>
+            Громадянство: Україна<br>
+            Сімейний стан: Одинокий
+        </p>
+    </div>
+    <div class="resume-section">
+        <h3 class="section-title">Освіта</h3>
+        <p class="section-content">
+            Навчальний заклад: Краснопільський ліцей №2<br>
+            Період навчання: Червень 2014 - Червень 2028<br>
+            Диплом: Бакалавр програмної інженерії
+        </p>
+    </div>
+    <div class="resume-section">
+        <h3 class="section-title">Досвід роботи</h3>
+        <p class="section-content">
+            1. Компанія: ABC Tech Solutions<br>
+               Посада: Junior Розробник програмного забезпечення<br>
+               Період роботи: Серпень 2016 - Липень 2018<br>
+               Обов'язки:<br>
+               - Підтримка і розробка веб-додатків з використанням HTML, CSS і JavaScript.<br>
+               - Робота з RESTful API для інтеграції з внутрішніми та зовнішніми сервісами.<br>
+               - Виконання код-рецензій та участь у тестуванні програмного забезпечення.<br>
+            2. Компанія: XYZ Software Solutions<br>
+               Посада: Старший розробник програмного забезпечення<br>
+               Період роботи: Липень 2018 - Серпень 2022<br>
+               Обов'язки:<br>
+               - Розробка та впровадження високоякісного програмного забезпечення для клієнтів.<br>
+               - Участь у проектах з аналізу вимог, проектування архітектури, розробки, тестування та впровадження.<br>
+               - Оптимізація існуючих додатків для підвищення продуктивності та ефективності.<br>
+               - Управління командою розробників та надання технічної підтримки колегам.<br>
+        </p>
+    </div>
+    <div class="resume-section">
+        <h3 class="section-title">Додаткові відомості</h3>
+        <p class="section-content">
+            - Вільне володіння англійською мовою<br>
+            - Мови програмування: Вишукана володіння Java, Python, JavaScript та C++.<br>
+            - Веб-технології: Досвід роботи з HTML, CSS, та JavaScript (включаючи бібліотеки та фреймворки, такі як React та Angular).<br>
+            - Готовий внести свій досвід та навички у вашу компанію і сприяти її подальшому розвитку. Моя мета - досягнення високих показників продажів та задоволення потреб клієнтів, працюючи в команді висококваліфікованих професіоналів.<br>
+        </p>
+    </div>
+</body>
+</html>
